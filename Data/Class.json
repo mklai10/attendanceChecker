@@ -1,0 +1,32 @@
+{
+    "name": "",
+    "Present": [
+        {
+            "name": "dog",
+            "status": "Present"
+        },
+        {
+            "name": "cat",
+            "status": "Present"
+        }
+    ],
+    "ClassList": [
+        {
+            "name": "dog",
+            "status": "Present"
+        },
+        {
+            "name": "cat",
+            "status": "Present"
+        },
+        {
+            "name": "bird",
+            "status": "Unknown"
+        },
+        {
+            "name": "fish",
+            "status": "Unknown"
+        }
+    ],
+    "Absent": []
+}
